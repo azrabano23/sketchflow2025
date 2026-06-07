@@ -1,11 +1,11 @@
-# ✏️ SketchFlow – From Sketch to Code, Instantly  
+# ✏️ SketchFlow – From Sketch to Code, Instantly 
 🚀 *Built at the 2025 IEEE Hackathon*
 
 ---
 
 ## ❗ Problem Statement
 
-Front-end UI design remains a major bottleneck for backend developers and small teams.  
+Front-end UI design remains a major bottleneck for backend developers and small teams. 
 > ⏱️ *According to GitHub’s 2024 DevOps Report, 63% of full-stack and backend developers cite UI prototyping as one of their biggest slowdowns in the software lifecycle.*
 
 Backend developers often lack access to intuitive, fast, and code-ready UI tools. Manually translating wireframes into code wastes time and introduces inconsistencies, especially for small teams and early-stage startups.
@@ -23,24 +23,24 @@ Backend developers often lack access to intuitive, fast, and code-ready UI tools
 
 ## 🔑 Key Features
 
-| Feature                | Description                                                                            |
+| Feature | Description |
 |------------------------|----------------------------------------------------------------------------------------|
-| ✏️ Sketch-Based Input  | Draw your UI using mouse input directly on the canvas                                 |
-| 🤖 AI-Powered Conversion | Uses Microsoft Sketch2Code to convert sketches into HTML                             |
-| ⚛️ React Output        | Automatically transforms HTML into reusable, semantic React components                |
-| 🔄 Seamless Handoff    | Bridges the gap between design and code for faster prototyping and iteration          |
+| ✏️ Sketch-Based Input | Draw your UI using mouse input directly on the canvas |
+| 🤖 AI-Powered Conversion | Uses Microsoft Sketch2Code to convert sketches into HTML |
+| ⚛️ React Output | Automatically transforms HTML into reusable, semantic React components |
+| 🔄 Handoff | Bridges the gap between design and code for faster prototyping and iteration |
 
 ---
 
 ## ⚙️ How It Works
 
-1. **Sketch2Code Integration**  
-   - Uses AI trained on millions of UIs to convert visual sketches into semantic HTML.
-   - Employs object detection and OCR to identify buttons, fields, and layout patterns.
+1. **Sketch2Code Integration** 
+ - Uses AI trained on millions of UIs to convert visual sketches into semantic HTML.
+ - Employs object detection and OCR to identify buttons, fields, and layout patterns.
 
-2. **HTML to React Conversion**  
-   - HTML is parsed and translated into JSX with component structure and state logic.
-   - Promotes accessible, modular design with minimal refactoring needed.
+2. **HTML to React Conversion** 
+ - HTML is parsed and translated into JSX with component structure and state logic.
+ - Promotes accessible, modular design with minimal refactoring needed.
 
 ---
 
@@ -55,10 +55,10 @@ Backend developers often lack access to intuitive, fast, and code-ready UI tools
 
 ## 🚀 Future Work
 
-- 🔗 Export to Figma + real-time browser editing  
-- 🧩 Support for other frameworks (Vue, Flutter, SwiftUI)  
-- 👆 Gesture detection for tap/swipe-based UI components  
-- 🤝 Collaboration mode for team-based editing and annotations  
+- 🔗 Export to Figma + real-time browser editing 
+- 🧩 Support for other frameworks (Vue, Flutter, SwiftUI) 
+- 👆 Gesture detection for tap/swipe-based UI components 
+- 🤝 Collaboration mode for team-based editing and annotations 
 
 ---
 
@@ -67,14 +67,14 @@ Backend developers often lack access to intuitive, fast, and code-ready UI tools
 To run the project locally:
 
 1. **Install Dependencies**
-   ```bash
-   npm install
-   ```
+ ```bash
+ npm install
+ ```
 
 2. **Start the App**
-   ```bash
-   npm start
-   ```
+ ```bash
+ npm start
+ ```
 
 3. Open [http://localhost:3000](http://localhost:3000) to view the app in your browser.
 
@@ -84,18 +84,18 @@ To run the project locally:
 
 ## 🏁 Demo
 
-Check out our walkthrough (coming soon)  
+Check out our walkthrough (coming soon) 
 Live deployment available upon request.
 
 ---
 
 ## 🙌 Team
 
-Built by Group 2 at the 2025 IEEE Hackathon:  
-- Azra Bano  
-- Preet Patel  
-- Yusuf Lee  
-- James Machado  
+Built by Group 2 at the 2025 IEEE Hackathon: 
+- Azra Bano 
+- Preet Patel 
+- Yusuf Lee 
+- James Machado 
 
 ---
 
